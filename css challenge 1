@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+<style>
+h1{
+    text-align: center;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+</style>
+
+
+    </head>
+    <body>
+
+        <h1>The coolest creature</h1>
+
+        <p>The <em>Dog</em> is awesome because <strong>it is mans best friend</strong>.</p>
+        <p>The dog is a domesticated descendant of the wolf. Also called the domestic dog, it was selectively bred from an extinct population of wolves during the Late Pleistocene by hunter-gatherers.<br> The dog was the first species to be domesticated by humans, over 14,000 years ago and before the development of agriculture.</p>
+<p>The dog is a pet animal. A dog has sharp teeth so that it can eat flesh very easily, it has four legs, two ears, two eyes, a tail, a mouth, and a nose. It is a very clever animal and is very useful in catching thieves. It runs very fast, barks loudly and attacks the strangers.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBuMvSuYezLE9rwI-zOJeIOmcIGfDPqOvFA&s" alt="a picture of a dog, a golden retriver which is one of the thousands breeds of dogs we have in the world">
+
+    </body>
+</html>
